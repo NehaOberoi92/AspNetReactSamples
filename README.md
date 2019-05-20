@@ -4,6 +4,7 @@ Wecome to this ASP.NET solution which contains examples of how to incorporate, b
 [React](https://facebook.github.io/react/) front-end inside an ASP.NET Core (1.0.0) and ASP.NET MVC5 
 application. 
 
+
 **Licence: MIT**
 
 ## UPDATE: Now in Visual Studio 2017 format (.csproj)
